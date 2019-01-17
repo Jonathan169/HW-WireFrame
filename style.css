@@ -1,0 +1,135 @@
+header{
+    position:relative;
+    height:80px;
+    width:900px;
+    text-align: center;
+    left:30%;
+}
+Header, Nav, Section, Aside, Footer{
+    background-color: #ebebeb;
+}
+
+
+
+body{
+    background-color:#777;
+    width:960px;
+}
+h1{
+    top:20px;
+    text-align:center;
+    position:relative;
+}
+nav{
+    position:relative;
+    height:80px;
+    width:900px;
+   
+    left:30%;
+    
+}
+section{
+    position:relative;
+    height:300px;
+    width:495px;
+    
+    left:30%;
+    bottom:-30px;
+}
+
+div{
+    background-color:#777;
+    height:80px;
+    width:80%;
+    position: absolute;
+    left:10%;
+    bottom:60px;
+}
+aside{
+    height:300px;
+    width:390px;
+    
+    float:left;
+    left:800px;
+    position: relative;
+    bottom:270px;
+}
+
+
+footer{
+    height:100px;
+    width:900px;
+    
+    position:relative;
+    bottom:-80px;
+    left:30%;
+}
+h3{
+    position: absolute;
+    left:45%;
+
+}
+#h3 {
+    text-align : center;
+    margin-top : 20px;
+    position: absolute;
+    left:45%;
+    bottom:15px;
+    
+
+
+}
+.font{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#777;
+}
+#pbox{
+    height:40px;
+    width:70%;
+    position: absolute;
+    background-color:#ebebeb;
+    text-align: center;
+    left:58px;
+}
+p{
+    position: relative;
+    text-align: center;
+    bottom:5px;
+}
+
+#h1{
+    height:40px;
+    width:70%;
+    background-color: #ebebeb;
+    margin:1em;
+    bottom:110px;
+    position: absolute;
+
+
+}
+h2{
+    text-align: center;
+}
+#h2{
+    position: absolute;
+    text-align: center;
+   top:-15px;
+    left:100px;
+}
+
+#greybox{
+    background-color:#777;
+    height:65%;
+    width:90%;
+    position: absolute;
+    bottom:20px;
+    float:left;
+    left:5%
+}
+
+
+
+
+
+
+
